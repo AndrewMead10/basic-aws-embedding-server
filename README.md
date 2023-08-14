@@ -1,0 +1,1 @@
+# basic-aws-embedding-server
